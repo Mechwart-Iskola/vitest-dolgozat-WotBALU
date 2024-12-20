@@ -1,5 +1,5 @@
-import { factorial } from './factorial';
-import { describe, it, expect, findLongestWord, countVowels, isSubset, findCommonObjects} from './functions';
+import { describe, it, expect } from './vitest';
+import {findLongestWord, countVowels, isSubset, findCommonObjects} from './functions';
 
 
 describe('factorial', () => {
